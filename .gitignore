@@ -1,0 +1,6 @@
+env/
+venv/
+.env
+async/
+project/__pycache__
+project/utils/__pycache__
